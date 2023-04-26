@@ -1,4 +1,4 @@
-# Hello tech-heads 💻👋
+# Hello tech-heads, welcom to my profile 💻👋
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="300"/>
@@ -11,13 +11,37 @@
   </a>
 </div>
 
+  ---
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+  
+  
+  
+### :man_technologist: About Me :
 
-I am Ahmed a passionate guy who is constantly learning and improving to land his first job in Devops and one day i will work at my dream company Google 🚀
+I am an in making Devops Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
 
-Currently i am a student in ALX Software Engineering Program Cohort 13
+- :telescope: Currently i am a student in ALX Software Engineering Program Cohort 13.
 
-# Tools and Skills:
+- :seedling: A passionate - ambitious guy who is constantly learning and improving to land his first job as a Devops Engineer and one day i will work at Google 🚀.
 
-C, Shell Scripting, Git
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-sherif-hafez-5a4851270/)  
 
+ 
+### :hammer_and_wrench: Languages and Tools Learned So far:
+ <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+</div>
+
+  ---
+  ### My Stats 🔥:
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ashcoderx123&theme=dark)](https://git.io/streak-stats)
+  
+ ### Top Languages Used 👨‍💻:
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Ashcoderx123=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
