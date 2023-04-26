@@ -1,8 +1,9 @@
-# Hello tech-heads, welcome to my profile 💻👋
+# Hello tech-heads 💻👋
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="300"/>
   <div id="badges">
+    <h1>welcome to my profile 👨‍💻👋</h1>
   <a href="https://www.linkedin.com/in/ahmed-sherif-hafez-5a4851270/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
