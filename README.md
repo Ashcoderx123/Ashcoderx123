@@ -1,4 +1,4 @@
-# Hello tech-heads, welcom to my profile 💻👋
+# Hello tech-heads, welcome to my profile 💻👋
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="300"/>
@@ -42,6 +42,6 @@ I am an in making Devops Engineer <img src="https://media.giphy.com/media/WUlplc
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashcoderx123&show_icons=true&theme=dark)
   
- ### Top Languages Used 👨‍💻:
+ ### Most Languages Used 👨‍💻:
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashcoderx123&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
