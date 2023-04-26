@@ -1,7 +1,7 @@
 # Hello tech-heads 💻👋
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif" width="300"/>
   <div id="badges">
     <h1>welcome to my profile 👨‍💻👋</h1>
   <a href="https://www.linkedin.com/in/ahmed-sherif-hafez-5a4851270/">
