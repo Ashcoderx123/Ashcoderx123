@@ -42,6 +42,6 @@ I am an in making Devops Engineer <img src="https://media.giphy.com/media/WUlplc
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashcoderx123&show_icons=true&theme=dark)
   
- ### Most Languages Used 👨‍💻:
+ ### Languages Used 💻:
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashcoderx123&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashcoderx123&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
